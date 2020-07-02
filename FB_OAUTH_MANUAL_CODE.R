@@ -1,0 +1,4 @@
+library(httr)
+fb_oauth_manual<-"EAACEdEose0cBAB9ab69vFj380l6fvO44vlgZC1WDreibBYaAOC0gWzRZAAVHresXvaYL2UMZCsZAW9tg37RRLOjNm613Pi0gT4UxElhfTkroyECB1QdPXoZBiwTGS7NiZCZAT8zCsqfNGOffsrYuJMmxPlm0krYrSNFv8bN031Y3i3wUMZAOzT08Gic82xVzEodndXZCtLXDKzQZDZD"
+save(fb_oauth_manual,file="fb_oauth_manual")
+
